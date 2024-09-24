@@ -36,9 +36,9 @@ git clone https://github.com/gouranga-rout/innomaticsInternshipTask1.git
 Open the index.html file in your web browser to view the exam schedule.
 
 Folder Structure
-
+🔰🔰🔰🔰🔰🔰🔰🔰🔰🔰
 /final-exam-schedule
 │
-├── index.html  # HTML file for the exam schedule
-├── style.css   # CSS file for styling the table
-└── README.md   # This README file
+├── index.html
+├── style.csss
+└── README.md
