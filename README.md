@@ -32,6 +32,7 @@ How to Use:
 Clone the repository to your local machine:
 
 git clone https://github.com/gouranga-rout/innomaticsInternshipTask1.git
+
 Open the index.html file in your web browser to view the exam schedule.
 
 Folder Structure
