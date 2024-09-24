@@ -1,0 +1,36 @@
+table {
+     width: 100%;
+     border-collapse: collapse;
+    }
+
+ th, td {
+     border: 1px solid black;
+     text-align: center;
+     padding: 10px;
+  }
+ 
+ th {
+    background-color: yellow;
+  }
+        
+.header {
+     background-color: yellow;
+     font-weight: bold;
+     font-size: 1.2em;
+   }
+        
+.home {
+     background-color: pink;
+     font-weight: bold;
+     font-size: 1.2em;
+   }
+
+.time {
+     width: 1rem;
+     background-color: #e6e4df;
+  }
+        
+.column {
+     width: 10.5rem;
+     padding: .5rem;
+  }
